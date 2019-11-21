@@ -6,10 +6,10 @@
         versionCode = "37100"
         android-versionCode="37100"
         version   = "3.7.1">
-    <name>Moodle</name>
+    <name>Brilliant Grammar High School</name>
 
     <description>
-        Moodle official app
+        Brilliant Grammar High School
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
