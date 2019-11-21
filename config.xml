@@ -6,23 +6,12 @@
         versionCode = "37100"
         android-versionCode="37100"
         version   = "3.7.1">
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 14db91c032f41c8a2d70fe76b84c2113f96d318e
+
     <name>StPiousXSchool</name>
 
     <description>
         StPiousXSchool
-<<<<<<< HEAD
-=======
-=======
-    <name>Little Flower High School</name>
 
-    <description>
-        Little Flower High School
->>>>>>> 862fc9141f118b62455227e0fa2f0f1e646a713b
->>>>>>> 14db91c032f41c8a2d70fe76b84c2113f96d318e
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
