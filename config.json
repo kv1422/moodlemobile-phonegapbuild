@@ -1,10 +1,8 @@
 {
     "app_id": "com.moodle.moodlemobile",
 
-    "appname": "PRINCE HIGH SCHOOL",
-    "desktopappname": "PRINCE HIGH SCHOOL Desktop",
->>>>>>> 862fc9141f118b62455227e0fa2f0f1e646a713b
->>>>>>> 14db91c032f41c8a2d70fe76b84c2113f96d318e
+    "appname": "Geeta High School",
+    "desktopappname": "Geeta High School Desktop",
     "versioncode": 3710,
     "versionname": "3.7.1",
     "cache_update_frequency_usually": 420000,
