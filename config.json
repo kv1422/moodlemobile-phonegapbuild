@@ -1,7 +1,17 @@
 {
     "app_id": "com.moodle.moodlemobile",
+<<<<<<< HEAD
     "appname": "StPiousXSchool",
     "desktopappname": "StPiousXSchool Desktop",
+=======
+<<<<<<< HEAD
+    "appname": "StPiousXSchool",
+    "desktopappname": "StPiousXSchool Desktop",
+=======
+    "appname": "Little Flower High School",
+    "desktopappname": "Little Flower High School Desktop",
+>>>>>>> 862fc9141f118b62455227e0fa2f0f1e646a713b
+>>>>>>> 14db91c032f41c8a2d70fe76b84c2113f96d318e
     "versioncode": 3710,
     "versionname": "3.7.1",
     "cache_update_frequency_usually": 420000,
