@@ -7,16 +7,16 @@
         android-versionCode="37100"
         version   = "3.7.1">
 
-    <name>Centenary High School</name>
+    <name>MOTHER TERESA INSTITUTE OF SCIENCE AND TECHNOLOGY</name>
 
     <description>
-        Centenary High School
-		Regognised by Govt. of Telengana
-		Bolton Road, Secunderabad
+        MOTHER TERESA INSTITUTE OF SCIENCE AND TECHNOLOGY
+Sanketika Nagar ,Kothuru
+Sathupally, KHAMMAM Dist-507303
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+        MIST
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
