@@ -7,16 +7,18 @@
         android-versionCode="37100"
         version   = "3.7.1">
 
-    <name>MOTHER TERESA INSTITUTE OF SCIENCE AND TECHNOLOGY</name>
+    <name>Sai Grace High School</name>
 
     <description>
-        MOTHER TERESA INSTITUTE OF SCIENCE AND TECHNOLOGY
-Sanketika Nagar ,Kothuru
-Sathupally, KHAMMAM Dist-507303
+        Sai Grace High School,
+Veerashiva Peddamatam, Bhavaninagar, 
+Old Bus Stand., Sangareddy, Hyderabad - 502001, 
+Mobile 9440541543
+Email : saigracehighschool@gmail.com
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
-        MIST
+        SGHC
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
